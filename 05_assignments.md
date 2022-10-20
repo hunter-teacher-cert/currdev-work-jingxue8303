@@ -1,0 +1,4 @@
+Assignment in class:
+By using Python, students are asked to use interation and conditional statements to create "guess my number number". Player of the game should receive feedback about if the number they guessed is too large or to small. This assignment can also lead them to compare the efficiency of linear binary search.  
+Assignment Out of Class:
+This is a project that students need to complete by using Python. They are asked to create an mini game with various themes. Students need to include certain functionalities and write an reflection to answer certain questions. I think students are going to be very motivated to create their own ones and get an opportunaties to try others'. 
