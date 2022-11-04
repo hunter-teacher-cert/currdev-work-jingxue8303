@@ -6,7 +6,7 @@ How you use it in class.
 Why you have selected that tool for that purpose?
 
 Snap!
-For coding
+For programming, IDE
 CSP
 When students do pair programming, they use Snap!
 The curriculum BJC requires that and our school is a CS4all school.
